@@ -1,0 +1,16 @@
+{
+    "name": "neobot",
+    "version": "1.0.0",
+    "main": "bot.js",
+    "scripts": {
+      "start": "node bot.js",
+      "test": "echo Everything works!"
+    },
+    "repository": "https://github.com/qbix213/neobot",
+    "author": "qbix213",
+    "license": "MIT",
+    "dependencies": {
+      "discord.js": "^11.4.2"
+    }
+  }
+  
